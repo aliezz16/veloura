@@ -575,9 +575,9 @@ function Main() {
                 <FontAwesomeIcon icon={faTwitter} className="text-[#443]" />
                 Veloura
               </a>
-              <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
+              <a href="https://www.instagram.com/velour.asweets?igsh=MWxzbzNzZng5MnYwYw==" className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
                 <FontAwesomeIcon icon={faInstagram} className="text-[#443]" />
-                @Veloura
+                @Velour.asweets
               </a>
               <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
                 <FontAwesomeIcon icon={faTiktok} className="text-[#443]" />

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { faBars, faTimes, faCake } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import icon from "../../public/icon.png";
+import icon from "../assets/image/icon.png";
 function HeaderNav() {
   const [isOpen, setIsOpen] = useState(false);
   const fixedClassName =

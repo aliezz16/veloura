@@ -555,10 +555,6 @@ function Main() {
                 <FontAwesomeIcon icon={faWhatsapp} className="text-[#443]" />
                 81819170
               </a>
-              <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
-                <FontAwesomeIcon icon={faEnvelope} className="text-[#443]" />
-                veloura.desserts@gmail.com
-              </a>
             </div>
           </div>
           <div className="mb-5 w-full sm:w-1/2 lg:w-1/4">
@@ -566,21 +562,9 @@ function Main() {
               Follow Us
             </h1>
             <div className="flex flex-col gap-4">
-              <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
-                <FontAwesomeIcon icon={faFacebook} className="text-[#443]" />
-                Veloura
-              </a>
-              <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
-                <FontAwesomeIcon icon={faTwitter} className="text-[#443]" />
-                Veloura
-              </a>
               <a href="https://www.instagram.com/velour.asweets?igsh=MWxzbzNzZng5MnYwYw==" className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
                 <FontAwesomeIcon icon={faInstagram} className="text-[#443]" />
                 @Velour.asweets
-              </a>
-              <a className="inline-flex flex-row gap-2 text-sm text-[#443] items-center font-poppins hover:underline cursor-pointer">
-                <FontAwesomeIcon icon={faTiktok} className="text-[#443]" />
-                Veloura
               </a>
             </div>
           </div>

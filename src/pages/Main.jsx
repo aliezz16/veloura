@@ -37,7 +37,6 @@ import React from "react";
 
 function Main() {
   const navigate = useNavigate();
-
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isMobile, setIsMobile] = useState(false);
   const [name, setName] = useState("");

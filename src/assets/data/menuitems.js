@@ -12,7 +12,7 @@ const items = [
       "Indulge in the perfect blend of creamy cheesecake and caramelized Lotus Biscoff spread, layered over a crunchy Biscoff cookie crust. A must-try for cookie butter lovers.",
     image: lotus,
     popular: true,
-    sizes: [{ S: 3.0 }, { M: 7.5 }],
+    sizes: [{ S: 3.0 }, { M: 7.0 }],
   },
   {
     id: 4,
@@ -23,7 +23,7 @@ const items = [
       "A smooth and creamy cheesecake topped with a generous layer of fresh strawberries and strawberry glaze. Balanced in sweetness and bursting with fruity flavor.",
     image: Strawberrycheesecake,
     popular: true,
-    sizes: [{ S: 3.0 }, { M: 7.5 }],
+    sizes: [{ S: 3.0 }, { M: 7.0 }],
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const items = [
       "This authentic Italian dessert features layers of espresso-soaked ladyfingers and rich mascarpone cream, finished with a dusting of cocoa powder. Elegant and irresistible.",
     image: tiramisu,
     popular: true,
-    sizes: [{ S: 3.3 }, { M: 7.5 }],
+    sizes: [{ S: 3.0 }, { M: 7.0 }],
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const items = [
       "A playful and delicious dessert inspired by the Lazy Cat meme, featuring layers of chocolate mousse, crushed biscuits, and a touch of humor. A viral treat that tastes as good as it looks.",
     image: zamel,
     popular: true,
-    sizes: [{ S: 3.0 }, { M: 7.5 }],
+    sizes: [{ S: 3.0 }, { M: 7.0 }],
   },
 ];
 
